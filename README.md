@@ -20,4 +20,4 @@ Available options description:
 10. Show statistics.
 
 The following database structure was used: <br/>
-![List Pacients](images/DB_tablesstructure.png)
+![Databse structure](images/DB_tables_structure.PNG)
